@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9D2D2E69-D68F-6710-9DFC-FAEF14546C5C}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e8bb662d-f285-4cab-b334-6dc03065a6eb" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayFabLogin.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayFabLogin.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="estesi" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayFabLogin.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
